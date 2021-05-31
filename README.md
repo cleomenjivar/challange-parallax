@@ -1,2 +1,2 @@
-# challange-parallax
+# challenge-parallax
 My first parallax
